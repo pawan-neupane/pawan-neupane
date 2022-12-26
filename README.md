@@ -27,8 +27,6 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **I am also a guitarist.**
 
-<img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/01/nural-network_3.gif" alt="nn" width="400" height="200"/> </a>
-
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
